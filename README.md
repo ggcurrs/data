@@ -7,7 +7,7 @@
 
 # 子どもの貧困
 ## pvty-case.csv
-[社会的排除にいたるプロセス ~若年ケース・スタディから見る排除の過程~ （内閣官房/内閣府, 2012年09月）pp. 8-9](https://www.mhlw.go.jp/stf/shingi/2r9852000002kvtw-att/2r9852000002kw5m.pdf
+[社会的排除にいたるプロセス ~若年ケース・スタディから見る排除の過程~ （内閣官房/内閣府, 2012年09月）pp. 8-9](https://www.mhlw.go.jp/stf/shingi/2r9852000002kvtw-att/2r9852000002kw5m.pdf)
 "表2 53 事例の概要"のデータ。エンコーディングはUTF-8, BOM（Byte Order Mark）無し（文字化けする場合はencodingを手動でUTF-8にしてください）。（2019/08/11）
 
 ## pvty-child-pvty.csv
