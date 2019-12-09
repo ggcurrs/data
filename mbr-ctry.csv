@@ -1,0 +1,65 @@
+Date:,,As of 2019-11-26,,,,,,,,,
+Source 1:,APEC,Asia-Pacific Economic Cooperation,https://www.apec.org/,,,,,,,,
+Source 2:,ASEAN,Association of Southeast Asian Nations,https://asean.org/,,,,,,,,
+Source 3:,APT ,ASEAN Plus Three,https://asean.org/asean/external-relations/asean-3/,,,,,,,,
+Source 4,RCEP ,Regional Comprehensive Economic Partnership,https://www.mofa.go.jp/mofaj/gaiko/fta/j-eacepia/index.html,,,,,,,,
+Source 5:,IORA,Indian Ocean Rim Association,https://www.iora.int/en,,,,,,,,
+Source 6:,SAARC,South Asian Association for Regional Cooperation,http://saarc-sec.org/,,,,,,,,
+Source 7:,TPP,Trans-Pacific Partnership,https://www.mofa.go.jp/mofaj/ila/et/page24_000580.html,,,,,,,,
+Source 8:,Geo Data,UN DESA World Urbanization Prospects 2018,https://population.un.org/wup/Download/Files/WUP2018-F13-Capital_Cities.xls,,,,,,,,
+File URI:,GGCS.io,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Country Name,ISO,Capital City,Latitude,Longitude,IORA,SAARC,APEC,TPP,ASEAN,APT,RCEP
+アフガニスタン,AFG,Kabul,34.528887,69.172460,,AFG,,,,,
+アラブ首長国連邦,ARE,Abu Zaby (Abu Dhabi),24.464778,54.361781,ARE,,,,,,
+オーストラリア,AUS,Canberra,-35.283460,149.128070,AUS,,AUS,AUS,,,AUS
+バングラデシュ,BGD,Dhaka,23.710400,90.407440,BGD,BGD,,,,,
+ブルネイ,BRN,Bandar Seri Begawan,4.940290,114.948060,,,BRN,BRN,BRN,BRN,BRN
+ブータン,BTN,Thimphu,27.466090,89.641910,,BTN,,,,,
+カナダ,CAN,Ottawa-Gatineau,45.416598,-75.697997,,,CAN,CAN,,,
+チリ,CHL,Santiago,-33.456940,-70.648270,,,CHL,CHL,,,
+中国,CHN,Beijing,39.907500,116.397230,,,CHN,,,CHN,CHN
+コモロ,COM,Moroni,-11.702160,43.255060,COM,,,,,,
+ギニア,GIN,Conakry,9.571642,-13.647602,,,GIN,,,,
+香港,HKG,Hong Kong,22.279588,114.188697,,,HKG,,,,
+インドネシア,IDN,Jakarta,-6.211831,106.841646,IDN,,IDN,,IDN,IDN,IDN
+インド,IND,Delhi,28.666670,77.216670,IND,IND,,,,,IND
+イラン,IRN,Tehran,35.694390,51.421510,IRN,,,,,,
+日本,JPN,Tokyo,35.689500,139.691710,,,JPN,JPN,,JPN,JPN
+ケニア,KEN,Nairobi,-1.283330,36.816670,KEN,,,,,,
+カンボジア,KHM,Phnum Pénh (Phnom Penh),11.562450,104.916010,,,,,KHM,KHM,KHM
+韓国,KOR,Seoul,37.568260,126.977830,,,KOR,,,KOR,KOR
+ラオス,LAO,Vientiane,17.966670,102.600000,,,,,LAO,LAO,LAO
+スリランカ,LKA,Sri Jayewardenepura Kotte,6.902780,79.908330,LKA,LKA,,,,,
+マダガスカル,MDG,Antananarivo,-18.913680,47.536130,MDG,,,,,,
+モルディブ,MDV,Male,4.174800,73.508880,MDV,MDV,,,,,
+メキシコ,MEX,Ciudad de México (Mexico City),19.427318,-99.141869,,,MEX,MEX,,,
+ミャンマー,MMR,Nay Pyi Taw,19.745000,96.129720,,,,,MMR,MMR,MMR
+モザンビーク,MOZ,Maputo,-25.965280,32.589170,MOZ,,,,,,
+モーリシャス,MUS,Port Louis,-20.161940,57.498890,MUS,,,,,,
+マレーシア,MYS,Kuala Lumpur,3.141200,101.686530,MYS,,MYS,MYS,MYS,MYS,MYS
+ネパール,NPL,Kathmandu,27.701690,85.320600,,NPL,,,,,
+ニュージーランド,NZL,Wellington,-41.286640,174.775570,,,NZL,NZL,,,NZL
+オマーン,OMN,Masqat (Muscat),23.613870,58.592200,OMN,,,,,,
+パキスタン,PAK,Islamabad,33.703510,73.059373,,PAK,,,,,
+ペルー,PER,Lima,-12.043180,-77.028240,,,PER,PER,,,
+フィリピン,PHL,Manila,14.604200,120.982200,,,PHL,,PHL,PHL,PHL
+ロシア,RUS,Moskva (Moscow),55.754996,37.621849,,,RUS,,,,
+シンガポール,SGP,Singapore,1.289670,103.850070,SGP,,SGP,SGP,SGP,SGP,SGP
+ソマリア,SOM,Muqdisho (Mogadishu),2.041636,45.343492,SOM,,,,,,
+セーシェル,SYC,Victoria,-4.616670,55.450000,SYC,,,,,,
+タイ,THA,Krung Thep (Bangkok),13.721964,100.525248,THA,,THA,,THA,THA,THA
+台湾,TWN,Taibei,25.047009,121.545680,,,,,,,
+タンザニア,TZA,Dodoma,-6.172210,35.739470,TZA,,,,,,
+米国,USA,"Washington, D.C.",38.895110,-77.036370,,,USA,,,,
+ベトナム,VNM,Hà Noi,21.024500,105.841170,,,VNM,VNM,VNM,VNM,VNM
+イエメン,YEM,Sana'a',15.353115,44.207820,YEM,,,,,,
+南アフリカ,ZAF,Pretoria,-25.744860,28.187830,ZAF,,,,,,
