@@ -17,3 +17,7 @@
 # ラーメン二郎を堪能しつつ健康を保つには？
 ## jiro-nutrition-facts.csv
 ラーメン二郎の食品成分分析に関係しそうなデータを文部科学省の『日本食品標準成分表2015年版（七訂）』から抜粋したもの。エンコーディングはUTF-8, BOM（Byte Order Mark）無し（文字化けする場合はencodingを手動でUTF-8にしてください）。（2019/11/04）
+
+# Indo-Pacific: インド太平洋戦略 成立のバックグラウンド
+## mbr-ctry.csv
+APEC（アジア太平洋経済協力）、ASEAN（東南アジア諸国連合）、APT (ASEAN+3)、RCEP (ASEAN+6) 、IORA（環インド洋連合）、SAARC（南アジア地域協力連合）、及びTPP（環太平洋パートナーシップ協定）メンバー国リスト。エンコーディングはUTF-8, BOM（Byte Order Mark）無し（文字化けする場合はencodingを手動でUTF-8にしてください）。（2019/11/26）
