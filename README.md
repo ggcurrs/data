@@ -1,4 +1,4 @@
-# Laws and Treaties on Hong Kong as of 2020-06-07
+# 香港国家安全法関連の基礎情報
 ## hk_laws.json
 2020-06-07時点での香港関連条約、法律等の整理。（2020-06-07）
 
