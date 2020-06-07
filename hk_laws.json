@@ -1,0 +1,158 @@
+{
+  "Tile": "Laws and Treaties on Hong Kong as of 2020-06-07",
+  "Last Update": "2020-06-07",
+  "Home": "Gota Gota Curent Survey <https://ggcs.io>",
+    "URI": "https://github.com/ggcurrs/data",
+  "南京条約": {
+    "alias_names": {
+      "an_0": "Treaty of Nanking",
+      "an_1": "Treaty of Nanjing",
+      "an_2": "baz"
+    },
+    "date": "1842-08-29",
+    "texts": {
+      "text_00": "http://libdb1.npm.gov.tw/ttscgi/capimg2.exe?1:121345731:910000108001-0-0.pdf",
+      "text_en": "https://www.thegazette.co.uk/London/issue/20276/page/3597/",
+      "text_zh": "https://worldjpn.grips.ac.jp/documents/texts/pw/18420829.T1C.html",
+      "text_ja": "https://worldjpn.grips.ac.jp/documents/texts/pw/18420829.T1J.html"
+    },
+    "description": {
+      "description_0": "[Text: MOFA_JP, 香港基礎データ]南京条約により香港島がが英国領土となる。",
+      "description_1": "bar",
+      "description_2": "baz"}
+
+  },
+
+  "北京条約": {
+    "alias_names": {
+      "an_0": "Convention of Peking",
+      "an_1": "bar",
+      "an_2": "baz"
+    },
+    "date": "1860-10-24",
+    "texts": {
+      "text_en": "https://worldjpn.grips.ac.jp/documents/texts/pw/18601024.T1E.html",
+      "text_ja": "https://worldjpn.grips.ac.jp/documents/texts/pw/18601024.T1J.html"
+    },
+    "description": {
+      "description_0": "[Text: MOFA_JP, 香港基礎データ]北京条約により九竜半島の先端が英国領土となる。",
+      "description_1": "bar",
+      "description_2": "baz"
+    }
+  },
+
+
+    "foobar条約": {
+      "alias_names": {
+        "an_0": "foo",
+        "an_1": "bar",
+        "an_2": "baz"
+      },
+      "date": "1898-mm-dd",
+      "texts": {
+        "text_en": "https://example.com",
+        "text_ja": "https://example.com"
+      },
+      "description": {
+        "description_0": "[Text: MOFA_JP, 香港基礎データ]英国は更に中国との租借条約により235の島を含む新界の99ヵ年にわたる租借を確保。",
+        "description_1": "bar",
+        "description_2": "baz"
+      }
+
+
+
+  },
+  "英中共同宣言": {
+    "alias_names": {
+      "an_0": "中華人民共和国政府とグレートブリテン及び北アイルランド連合王国政府の香港問題に関する連合声明",
+      "an_1": "Sino-British Joint Declaration",
+      "an_2": "香港問題に関する英中共同声明",
+      "an_3": "中英共同宣言",
+      "an_4": "Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People's Republic of China on the Question of Hong Kong",
+      "an_5": "中華人民共和國政府和大不列顛及北愛爾蘭聯合王國政府關於香港問題的聯合聲明"
+    },
+    "date": "1984-12-19",
+    "texts": {
+      "text_zh-tw": "https://www.cmab.gov.hk/tc/issues/jd2.htm",
+      "text_zh-cn": "https://www.cmab.gov.hk/gb/issues/jd2.htm",
+      "text_en": "https://www.cmab.gov.hk/en/issues/jd2.htm",
+      "text_jp": "https://worldjpn.grips.ac.jp/documents/texts/docs/19841219.D1J.html"
+    },
+    "description": {
+      "description_0": "[Text: MOFA_JP, 香港基礎データ]中英双方の首相により，1997年7月1日をもって香港の全領域を中国に一括返還する旨の英中共同声明が署名され，1985年5月に発効。",
+      "description_1": "bar",
+      "description_2": "baz"
+    }
+  },
+  "香港基本法": {
+    "alias_names": {
+      "an_0": "中華人民共和国香港特別行政区基本法",
+      "an_1": "香港特別行政区基本法",
+      "an_2": "Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China",
+      "an_3": "The Basic Law"
+    },
+    "date": "1990-04-04",
+    "texts": {
+      "text_zh-tw": "https://www.basiclaw.gov.hk/tc/basiclawtext/index.html",
+      "text_zh-cn": "https://www.basiclaw.gov.hk/gb/basiclawtext/index.html",
+      "text_en": "https://www.basiclaw.gov.hk/en/basiclawtext/index.html"
+    },
+    "description": {
+      "description_0": "[Text: MOFA_JP, 香港基礎データ]中国全国人民代表大会にて「香港特別行政区基本法」が可決，成立。1997年7月1日，中国に返還。",
+      "description_1": "[Text: MOFA_JP, 香港基礎データ]1997年7月1日に香港が英国から中国に返還されて以来，いわゆる，「一国二制度」が実施されており，「中華人民共和国香港特別行政区基本法」は，香港特別行政区に「高度な自治」を認め（第2条），社会主義制度と政策を実行せず，従来の資本主義制度と生活方式を維持し，50年間変えない（第5条）等と定めている。",
+      "description_2": "cf. 香港基本法 第23条 / 香港国家安全法"
+    }
+  },
+  "米国-香港政策法": {
+    "alias_names": {
+      "an_0": "United States-Hong Kong Policy Act of 1992. , Law S.1731",
+      "an_1": "香港人権・民主主義法",
+      "an_2": "baz"
+    },
+    "date": "1992-10-05",
+    "texts": {
+      "text_00": "https://www.congress.gov/bill/102nd-congress/senate-bill/1731"
+    },
+    "description": {
+      "description_0": "foo",
+      "description_1": "bar",
+      "description_2": "baz"
+    }
+  },
+  "香港人権法": {
+    "alias_names": {
+      "an_0": "Hong Kong Human Rights and Democracy Act of 2019. Law S.1838",
+      "an_1": "香港人権・民主主義法",
+      "an_2": "baz"
+    },
+    "date": "2019-11-27",
+    "texts": {
+      "text_00": "https://www.congress.gov/bill/116th-congress/senate-bill/1838?q=%7B%22search%22%3A%5B%22law+S.+1838%22%5D%7D&s=1&r=2",
+      "text_ja": "http://example.com",
+      "text_en": "http://example.com"
+    },
+    "description": {
+      "description_0": "foo",
+      "description_1": "bar",
+      "description_2": "baz"
+    }
+  },
+  "香港国家安全法": {
+    "alias_names": {
+      "an_0": "Hong Kong Security Law",
+      "an_1": "bar",
+      "an_2": "baz"
+    },
+    "date": "2020-05-28",
+    "texts": {
+      "text_00": "http://example.com",
+      "text_ja": "http://example.com",
+      "text_en": "http://example.com"
+    },
+    "description": {
+      "description_0": "cf. 香港基本法　第二十三條: 香港特別行政區應自行立法禁止任何叛國、分裂國家、煽動叛亂、顛覆中央人民政府及竊取國家機密的行為，禁止外國的政治性組織或團體在香港特別行政區進行政治活動，禁止香港特別行政區的政治性組織或團體與外國的政治性組織或團體建立聯繫",
+      "description_1": "cf. HK Basic Law Article 23: The Hong Kong Special Administrative Region shall enact laws on its own to prohibit any act of treason, secession, sedition, subversion against the Central People's Government, or theft of state secrets, to prohibit foreign political organizations or bodies from conducting political activities in the Region, and to prohibit political organizations or bodies of the Region from establishing ties with foreign political organizations or bodies. ",
+      "description_2": "baz"
+    }
+  }
+}
