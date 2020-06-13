@@ -1,6 +1,10 @@
 # 香港国家安全法関連の基礎情報
 ## hk_laws.json
 2020-06-07時点での香港関連条約、法律等の整理。（2020-06-07）
+## hkpar_2020.csv
+2020 Hong Kong Policy Act Report. Original text, Google translate and Bing translate (en -> ja)
+## hkpar_2019.csv
+2019 Hong Kong Policy Act Report. Original text, Google translate and Bing translate (en -> ja)
 
 # Indo-Pacific: インド太平洋戦略 成立のバックグラウンド
 ## mbr-ctry.csv
