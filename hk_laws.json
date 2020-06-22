@@ -1,6 +1,6 @@
 {
   "Tile": "Laws and Treaties on Hong Kong as of 2020-06-07",
-  "Last Update": "2020-06-07",
+  "Last Update": "2020-06-23",
   "Home": "Gota Gota Current Survey <https://ggcs.io>",
     "URI": "https://github.com/ggcurrs/data",
   "南京条約": {
@@ -143,7 +143,7 @@
       "an_1": "bar",
       "an_2": "baz"
     },
-    "date": "2020-05-28",
+    "date": "2020-mm-dd",
     "texts": {
       "text_00": "http://example.com",
       "text_ja": "http://example.com",
