@@ -1,8 +1,9 @@
 {
-  "Tile": "Laws and Treaties on Hong Kong as of 2020-06-07",
-  "Last Update": "2020-06-23",
+  "Tile": "Laws and Treaties on Hong Kong as of 2020-07-04",
+  "Last Update": "2020-07-04",
   "Home": "Gota Gota Current Survey <https://ggcs.io>",
     "URI": "https://github.com/ggcurrs/data",
+
   "南京条約": {
     "alias_names": {
       "an_0": "Treaty of Nanking",
@@ -20,7 +21,6 @@
       "description_0": "[Text: MOFA_JP, 香港基礎データ]南京条約により香港島がが英国領土となる。",
       "description_1": "bar",
       "description_2": "baz"}
-
   },
 
   "北京条約": {
@@ -41,7 +41,6 @@
     }
   },
 
-
     "展拓香港界址専条": {
       "alias_names": {
         "an_0": "foo",
@@ -58,10 +57,8 @@
         "description_1": "bar",
         "description_2": "baz"
       }
-
-
-
   },
+
   "英中共同宣言": {
     "alias_names": {
       "an_0": "中華人民共和国政府とグレートブリテン及び北アイルランド連合王国政府の香港問題に関する連合声明",
@@ -84,6 +81,7 @@
       "description_2": "baz"
     }
   },
+
   "香港基本法": {
     "alias_names": {
       "an_0": "中華人民共和国香港特別行政区基本法",
@@ -103,6 +101,7 @@
       "description_2": "cf. 香港基本法 第23条 / 香港国家安全法"
     }
   },
+
   "米国-香港政策法": {
     "alias_names": {
       "an_0": "United States-Hong Kong Policy Act of 1992. , Law S.1731",
@@ -119,6 +118,7 @@
       "description_2": "baz"
     }
   },
+
   "香港人権法": {
     "alias_names": {
       "an_0": "Hong Kong Human Rights and Democracy Act of 2019. Law S.1838",
@@ -137,13 +137,17 @@
       "description_2": "baz"
     }
   },
+  
   "香港国家安全法": {
     "alias_names": {
       "an_0": "Hong Kong Security Law",
-      "an_1": "bar",
-      "an_2": "baz"
+      "an_1": " Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region",
+      "an_2": "中华人民共和国香港特别行政区维护国家安全法",
+      "an_3": "中華人民共和国香港特別行政区国家安全維持法"
+    ,
+      "an_4": "香港国家安全維持法"
     },
-    "date": "2020-mm-dd",
+    "date": "2020-06-30",
     "texts": {
       "text_00": "http://example.com",
       "text_ja": "http://example.com",
