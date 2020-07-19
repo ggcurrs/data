@@ -6,6 +6,11 @@
 ## hkpar_2019.csv
 2019 Hong Kong Policy Act Report. Original text, Google translate and Bing translate (en -> ja)
 
+
+# 香港国家安全法: 5ちゃんねるでの書き込み動向
+## np_sample.csv
+書き込み日時、投稿者のID、名前（「不要不急の名無しさん」は "anon" 変換してあります）、スレッドID、 キーワード（kwd000 - kwd031）及びメッセージ文字数（MSGLEN）に抽象化し、メッセージそのものは含まれていません。
+
 # Indo-Pacific: インド太平洋戦略 成立のバックグラウンド
 ## mbr-ctry.csv
 APEC（アジア太平洋経済協力）、ASEAN（東南アジア諸国連合）、APT (ASEAN+3)、RCEP (ASEAN+6) 、IORA（環インド洋連合）、SAARC（南アジア地域協力連合）、及びTPP（環太平洋パートナーシップ協定）メンバー国リスト。エンコーディングはUTF-8, BOM（Byte Order Mark）無し（文字化けする場合はencodingを手動でUTF-8にしてください）。（2019-11-26）
